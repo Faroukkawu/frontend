@@ -27,7 +27,7 @@ const app = Vue.createApp({
         // Fetch lessons from the backend
         async fetchLessons() {
             try {
-                const apiUrl = "http://localhost:5001/api/lessons";
+                const apiUrl = "https://backend-5pcg.onrender.com/api/lessons";
                 console.log("Fetching lessons from:", apiUrl);
 
                 const response = await fetch(apiUrl);

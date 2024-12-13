@@ -1,4 +1,4 @@
-# Project Documentation
+# Coursework Documentation
 
 ## Links
 
